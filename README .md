@@ -27,8 +27,12 @@ The script will generate the following outputs: - Table showing the time taken f
 
 ## CPU usage Graph
 
-![Cpu usage](./Cpu%20usage.png)
+![Cpu usage](./CPU%20usage.png)
 
 ## Time VS Threads
 
-![Threads VS Time](./Time%20vs%20Threads.png)
+![Threads VS Time](./Time%20VS%20threads.png)
+
+## CPU usage table
+
+![Cpu usage table](./CPU%20usage%20table.png)
