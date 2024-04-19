@@ -23,26 +23,19 @@ The script will generate the following outputs: - Table showing the time taken f
 
 ## Resultant Table
 
-![Result table](./Result%20Table.png)
+![Result Table](https://github.com/Tanishq2003be/102117154_Assignment7_Multithreading_CS6_TanishqDublish/assets/100364028/9f4267d9-ccef-4624-b436-cf7b7d4417b9)
 
 ## CPU usage Graph
 
-<<<<<<< HEAD
-![Cpu usage](./CPU%20Graph.png)
-
-## Time VS Threads
-
-![Threads VS Time](./Time%20Vs%20Threads.png)
-=======
-![CPU usage](https://github.com/Tanishq2003be/102117154_Assignment7_Multithreading_CS6_TanishqDublish/assets/100364028/71a7b101-eeb1-4ea1-b1bc-b2b254f9d4fb)
+![CPU Graph](https://github.com/Tanishq2003be/102117154_Assignment7_Multithreading_CS6_TanishqDublish/assets/100364028/d9147b7b-0900-49e0-9c79-52cbd3955779)
 
 
 ## Time VS Threads
 
-![Time VS threads](https://github.com/Tanishq2003be/102117154_Assignment7_Multithreading_CS6_TanishqDublish/assets/100364028/e5a2edb9-3e70-4b01-9b1e-1f806b52d640)
+![Time VS threads](![Time Vs Threads](https://github.com/Tanishq2003be/102117154_Assignment7_Multithreading_CS6_TanishqDublish/assets/100364028/fafee7ac-bdba-4d4a-ad2b-5ea8d0c67c82)
 
->>>>>>> 5f9af5f3bb8ec8ecb03b283b5c201d04534f2235
+
 
 ## CPU usage table
 
-![Cpu usage table](./CPU%20Usage%20table.png)
+![CPU Usage table](https://github.com/Tanishq2003be/102117154_Assignment7_Multithreading_CS6_TanishqDublish/assets/100364028/acdf89bf-9669-42e6-9c54-b27bc7624fd7)
