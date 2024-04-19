@@ -27,11 +27,21 @@ The script will generate the following outputs: - Table showing the time taken f
 
 ## CPU usage Graph
 
+<<<<<<< HEAD
 ![Cpu usage](./CPU%20Graph.png)
 
 ## Time VS Threads
 
 ![Threads VS Time](./Time%20Vs%20Threads.png)
+=======
+![CPU usage](https://github.com/Tanishq2003be/102117154_Assignment7_Multithreading_CS6_TanishqDublish/assets/100364028/71a7b101-eeb1-4ea1-b1bc-b2b254f9d4fb)
+
+
+## Time VS Threads
+
+![Time VS threads](https://github.com/Tanishq2003be/102117154_Assignment7_Multithreading_CS6_TanishqDublish/assets/100364028/e5a2edb9-3e70-4b01-9b1e-1f806b52d640)
+
+>>>>>>> 5f9af5f3bb8ec8ecb03b283b5c201d04534f2235
 
 ## CPU usage table
 
